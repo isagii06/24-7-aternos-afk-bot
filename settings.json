@@ -30,10 +30,7 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
-        "I'm a regular player",
-        "Follow isagii_06",
-        "play guyz"
+      "messages":[
       ]
     },
     "chat-log": true,
